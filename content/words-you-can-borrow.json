@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "id": "starting-out",
+      "situation": "Starting a difficult conversation",
+      "description": "When you know something needs to be said, but starting feels overwhelming.",
+      "phrases": [
+        {
+          "id": "start-1",
+          "text": "I’m having a hard time finding the right words, but I want to be honest about where I am today.",
+          "context": "Useful when you want to open up without feeling pressured to tell the story perfectly."
+        },
+        {
+          "id": "start-2",
+          "text": "There’s something weighing on me that I’d like to share, but I don’t need advice or answers right now.",
+          "context": "Helps set clear expectations before speaking."
+        },
+        {
+          "id": "start-3",
+          "text": "Do you have 10 quiet minutes? I don’t need you to fix anything, just to sit with me for a moment.",
+          "context": "A gentle invitation for someone’s calm attention."
+        }
+      ]
+    },
+    {
+      "id": "feeling-overwhelmed",
+      "situation": "Expressing overwhelm without a tidy conclusion",
+      "description": "When things feel disorganized or heavy inside and you can’t summarize it neatly.",
+      "phrases": [
+        {
+          "id": "overwhelm-1",
+          "text": "Everything feels loud and slightly too much right now, and I’m having trouble sorting through it.",
+          "context": "Validates feelings of cognitive or sensory exhaustion."
+        },
+        {
+          "id": "overwhelm-2",
+          "text": "I’m not in immediate danger, but I feel empty and tired in a way sleep doesn’t seem to fix.",
+          "context": "Clarifies emotional exhaustion while distinguishing it from an acute crisis."
+        },
+        {
+          "id": "overwhelm-3",
+          "text": "I don’t fully understand why today feels so heavy, but pretending it doesn't is taking all my energy.",
+          "context": "Relieves the burden of needing an intellectual explanation for low mood."
+        }
+      ]
+    },
+    {
+      "id": "asking-for-presence",
+      "situation": "Asking for quiet presence instead of solutions",
+      "description": "When you need companionable silence or gentle listening rather than problem-solving.",
+      "phrases": [
+        {
+          "id": "presence-1",
+          "text": "Could we just take a short walk or sit together without talking about solutions for a bit?",
+          "context": "Grounds the connection in physical calm without demand for performance."
+        },
+        {
+          "id": "presence-2",
+          "text": "If I get quiet or teary, it’s not because you did anything wrong; I just need space to breathe.",
+          "context": "Reassures the other person so you can both relax into the moment."
+        }
+      ]
+    },
+    {
+      "id": "gentle-boundaries",
+      "situation": "Setting a gentle boundary when depleted",
+      "description": "When you need to pause or step back without feeling cold or guilty.",
+      "phrases": [
+        {
+          "id": "boundary-1",
+          "text": "I care about this conversation, but my cup is completely empty right now. Can we pick this up tomorrow?",
+          "context": "Protects your remaining reserves while honoring the relationship."
+        },
+        {
+          "id": "boundary-2",
+          "text": "I don’t have the emotional capacity to listen well right now, but I want to make time once I’ve recharged.",
+          "context": "Honest self-awareness that prevents resentment or burnout."
+        }
+      ]
+    }
+  ]
+}
