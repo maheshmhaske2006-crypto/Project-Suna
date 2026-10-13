@@ -1,6 +1,6 @@
 # Project Suna ("You can talk about it.")
 
-An accessible, mobile-first static website for **Project Suna**, an early research concept exploring pseudonymous, non-clinical conversation support for adults 18+.
+An accessible, mobile-first static website for **Project Suna**, an early research concept exploring pseudonymous, non-clinical conversation support for adults and teenagers.
 
 > **Important Boundary & Status Notice:**  
 > Suna is in early research and is **not live**, **not therapy**, and **not emergency help**. We never describe unbuilt features as available, never use the term "anonymous", and never promise absolute confidentiality.
